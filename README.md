@@ -19,5 +19,17 @@ Màn Hình Chính
 Màn Hình tổng quan người dùng
 ![1712804165965](https://github.com/ZecManh/Student_Learn/assets/62164165/84606676-ab97-40de-8ff1-d07bb43d90d9)
 
-Màn Hình 1
+Màn Hình Khác
 ![1712804202255](https://github.com/ZecManh/Student_Learn/assets/62164165/5fac1610-5b3f-4f5a-9b38-8bd0b7b98784)
+
+![1712804197035](https://github.com/ZecManh/Student_Learn/assets/62164165/b5131b6d-b069-4aba-b78d-896a9ee1a656)
+
+![1712804189763](https://github.com/ZecManh/Student_Learn/assets/62164165/842f775b-df4e-488c-bf74-fd64e8c79265)
+
+![1712804137535](https://github.com/ZecManh/Student_Learn/assets/62164165/074fbc0c-4eb5-4240-9172-df46267c2021)
+
+![1712804218786](https://github.com/ZecManh/Student_Learn/assets/62164165/778e7ead-2162-4675-9721-ddd0b32a6e53)
+
+![1712804226432](https://github.com/ZecManh/Student_Learn/assets/62164165/be5f6ad1-a01f-4dbc-b3d0-b923f5bd4c15)
+
+![1712804245300](https://github.com/ZecManh/Student_Learn/assets/62164165/52c4bbd8-fe28-4c0a-a55b-f2af9a728d80)
