@@ -5,6 +5,10 @@ Chức năng chính :
    - Tạo yêu cầu học,quản lý yêu cầu học,thông báo nhắc nhở khi nhận yêu cầu học mới
    - Tạo lịch học
    - Quản lý lớp học,tiết học,thông báo nhắc nhở khi đến giờ học
+   - Các chức năng phát triển thêm :
+       + Sử dụng QR để trao đổi thông tin học sinh,giáo viên,lớp học - Do Nhâm Đức Mạnh thực hiện
+       + Sử dụng nhận diện khuôn mặt trong khâu đăng ký và đăng nhập,xác minh người dạy,người học - Do Trần Huy Nam thực hiện
+
 
 
 Màn Chọn Nhân Vật 
