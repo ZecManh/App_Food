@@ -1,16 +1,7 @@
-# datn
+TLU TUTOR là một ứng dụng được phát triển để kết nối người dạy và người học thông qua hình thức tạo yêu cầu học từ người học và quản lý lớp học từ người dạy.
+Công nghệ : Flutter,Firebase
+Chức năng chính : Đăng nhập,đăng kí,quên mật khẩu
 
-Student Helper
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Màn Chọn Nhân Vật 
+![1712804105920](https://github.com/ZecManh/Student_Learn/assets/62164165/7c6913c6-a089-4434-bcf9-4139c9cce7a6)
